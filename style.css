@@ -1,6 +1,9 @@
 .align-text{
   text-align: center;
 }
+.align-right{
+  text-align: right;
+}
 .item-align{
   padding:10px 15px;
   font-size: 18px;
