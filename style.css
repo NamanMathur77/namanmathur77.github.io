@@ -12,6 +12,15 @@
   padding:10px 15px;
   font-size: 18px;
 }
+.img1 {
+  border-radius: 50%;
+  -webkit-transition: -webkit-transform .8s ease-in-out;
+          transition:         transform .8s ease-in-out;
+}
+.img1:hover {
+  -webkit-transform: rotate(360deg);
+          transform: rotate(360deg);
+}
 
 .carouselimage {
     height: 600px;
