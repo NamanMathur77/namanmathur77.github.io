@@ -15,6 +15,9 @@
 .heart-shadow:hover {
   text-shadow: 2px 2px 2px red;
 }
+
+
+
 .img1 {
   border-radius: 50%;
   -webkit-transition: -webkit-transform .8s ease-in-out;
