@@ -4,5 +4,5 @@ window.onscroll=function(){
     thg.innerHTML="<b><u>All this looking back is a pain in your neck</u></b>";
     setTimeout(function(){
       thg.innerHTML="<b><u>\"One Life no Regeret\"</u></b>";
-    },5000);
+    },10000);
   }};
