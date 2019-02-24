@@ -26,6 +26,15 @@ display: none;
   transition: .5s ease;
   backface-visibility: hidden;
 }
+#vertText{
+  writing-mode: vertical-lr;
+direction: rtl;
+width:1%;
+ right:20px;
+ top:0px;
+ position: absolute;
+ color:yellow;
+}
 
 .middle {
   transition: .5s ease;
