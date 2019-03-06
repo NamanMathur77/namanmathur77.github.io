@@ -9,18 +9,68 @@
 
 <url>
   <loc>http://www.namanmathur.online/</loc>
-  <lastmod>2019-03-02T14:23:55+00:00</lastmod>
+  <lastmod>2019-03-06T04:51:10+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>http://www.namanmathur.online/skills.html</loc>
-  <lastmod>2019-03-02T14:23:55+00:00</lastmod>
+  <lastmod>2019-03-06T04:51:10+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://www.namanmathur.online/myprojects.html</loc>
-  <lastmod>2019-03-02T14:23:55+00:00</lastmod>
+  <lastmod>2019-03-06T04:51:10+00:00</lastmod>
   <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.namanmathur.online/event/</loc>
+  <lastmod>2019-02-22T18:12:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.namanmathur.online/christmas-sweater/</loc>
+  <lastmod>2019-01-19T15:38:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.namanmathur.online/Image-Gallery/</loc>
+  <lastmod>2019-01-06T05:37:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.namanmathur.online/Aprv-digital-solution/</loc>
+  <lastmod>2018-12-28T15:55:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.namanmathur.online/event/registration.html</loc>
+  <lastmod>2019-02-22T18:12:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://www.namanmathur.online/Image-Gallery/index.html</loc>
+  <lastmod>2019-01-06T05:37:18+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://www.namanmathur.online/Image-Gallery/works.html</loc>
+  <lastmod>2019-01-06T05:37:18+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://www.namanmathur.online/Image-Gallery/contact.html</loc>
+  <lastmod>2019-01-06T05:37:18+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://www.namanmathur.online/Image-Gallery/street.html</loc>
+  <lastmod>2019-01-06T05:37:18+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://www.namanmathur.online/Aprv-digital-solution/index.html</loc>
+  <lastmod>2018-12-28T15:55:21+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 
 
